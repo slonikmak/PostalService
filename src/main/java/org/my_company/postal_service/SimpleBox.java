@@ -1,3 +1,5 @@
+package org.my_company.postal_service;
+
 public class SimpleBox implements Box {
 
     final private double width;

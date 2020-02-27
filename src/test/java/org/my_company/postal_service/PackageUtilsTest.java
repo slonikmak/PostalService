@@ -1,6 +1,9 @@
+package org.my_company.postal_service;
+
 import static org.junit.Assert.*;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
 
 public class PackageUtilsTest {
 
